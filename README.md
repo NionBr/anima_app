@@ -1,16 +1,13 @@
 # anima_app
 
-A new Flutter project.
+Simples app que consome api rest de uma base de dados.
 
-## Getting Started
+## Clonando o Repositório
 
-This project is a starting point for a Flutter application.
+Com o Git instalado na sua maquina e a URL do projeto em mãos, cria em algum lugar do seu pc uma pasta onde deseja copiar o repositório, dentro dela abra o cmd ou powershell e digite os comandos abaixo:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+git clone https://github.com/NionBr/anima_app.git
+cd nubank-splash-screen
+flutter pub get
+```
